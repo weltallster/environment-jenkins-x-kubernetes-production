@@ -13,7 +13,11 @@ expose:
   - --v
   - 4
   config:
+<<<<<<< HEAD
     domain: 35.234.51.212.nip.io
+=======
+    domain: 35.201.153.178.nip.io
+>>>>>>> origin/promote-cloudshell-kbn-0.0.1
     exposer: Ingress
     http: "true"
 jenkins:
